@@ -1,0 +1,2 @@
+s_no,rg,name,id,location,sku,db_version,storage_mb,keyvault,user_key_name,password_key_name
+1,rg-xyz-myresourcegroup-eastus-001,mydb,001,eastus,GP_Gen5_16,11,512000,mykeyvault,adminuser,adminpassword

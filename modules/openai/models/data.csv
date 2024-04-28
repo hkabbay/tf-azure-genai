@@ -1,0 +1,2 @@
+s_no,rg,account,location,name,id,model,capacity
+1,rg-myresourcegroup-westus-001,openai-myaccount-001,westus,embeddings,001,ada-text-embeddings-03,120
