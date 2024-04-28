@@ -1,6 +1,6 @@
-# Using Terraform to setup Azure Infrastructure
+# Using Terraform to set Azure Infrastructure
 
-This repository provides a modular design along with working examples to setup infrastructure in Azure to support the development of a Generative AI application. The modules contain information to setup Azure OpenAI account and LLMs, vector database, semantic search, etc.
+This repository provides a modular design along with working examples to set up infrastructure in Azure to support the development of a Generative AI application. The modules contain information to setup Azure OpenAI accounts and LLMs, vector databases, semantic search, etc.
 
 ## Table of Contents
 
